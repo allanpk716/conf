@@ -3,7 +3,6 @@ module github.com/allanpk716/conf
 go 1.18
 
 require (
-	github.com/google/uuid v1.3.0
 	github.com/pelletier/go-toml/v2 v2.0.6
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/stretchr/testify v1.8.1
