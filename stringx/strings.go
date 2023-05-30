@@ -2,9 +2,8 @@ package stringx
 
 import (
 	"errors"
+	"github.com/allanpk716/conf/lang"
 	"unicode"
-
-	"github.com/zeromicro/go-zero/core/lang"
 )
 
 var (

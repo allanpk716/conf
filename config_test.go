@@ -1,8 +1,8 @@
 package conf
 
 import (
-	"github.com/allanpk716/config/fs"
-	"github.com/allanpk716/config/hash"
+	"github.com/allanpk716/conf/fs"
+	"github.com/allanpk716/conf/hash"
 	"os"
 	"reflect"
 	"testing"

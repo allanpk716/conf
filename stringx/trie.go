@@ -1,6 +1,6 @@
 package stringx
 
-import "github.com/zeromicro/go-zero/core/lang"
+import "github.com/allanpk716/conf/lang"
 
 const defaultMask = '*'
 

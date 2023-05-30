@@ -1,7 +1,7 @@
 package mapping
 
 import (
-	"github.com/allanpk716/config/encoding"
+	"github.com/allanpk716/conf/encoding"
 	"io"
 )
 

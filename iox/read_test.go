@@ -2,8 +2,8 @@ package iox
 
 import (
 	"bytes"
-	"github.com/allanpk716/config/fs"
-	"github.com/allanpk716/config/stringx"
+	"github.com/allanpk716/conf/fs"
+	"github.com/allanpk716/conf/stringx"
 	"io"
 	"os"
 	"testing"

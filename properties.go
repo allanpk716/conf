@@ -2,7 +2,7 @@ package conf
 
 import (
 	"fmt"
-	"github.com/allanpk716/config/iox"
+	"github.com/allanpk716/conf/iox"
 	"os"
 	"strconv"
 	"strings"

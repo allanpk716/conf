@@ -3,7 +3,7 @@ package encoding
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/allanpk716/config/lang"
+	"github.com/allanpk716/conf/lang"
 
 	"github.com/pelletier/go-toml/v2"
 

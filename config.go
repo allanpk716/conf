@@ -2,9 +2,9 @@ package conf
 
 import (
 	"fmt"
-	"github.com/allanpk716/config/encoding"
-	"github.com/allanpk716/config/jsonx"
-	"github.com/allanpk716/config/mapping"
+	"github.com/allanpk716/conf/encoding"
+	"github.com/allanpk716/conf/jsonx"
+	"github.com/allanpk716/conf/mapping"
 	"log"
 	"os"
 	"path"

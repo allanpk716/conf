@@ -1,7 +1,7 @@
 package mapping
 
 import (
-	"github.com/allanpk716/config/jsonx"
+	"github.com/allanpk716/conf/jsonx"
 	"io"
 )
 

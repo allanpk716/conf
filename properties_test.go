@@ -1,7 +1,7 @@
 package conf
 
 import (
-	"github.com/allanpk716/config/fs"
+	"github.com/allanpk716/conf/fs"
 	"os"
 	"testing"
 

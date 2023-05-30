@@ -1,7 +1,7 @@
 package fs
 
 import (
-	"github.com/allanpk716/config/hash"
+	"github.com/allanpk716/conf/hash"
 	"os"
 )
 

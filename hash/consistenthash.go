@@ -2,7 +2,7 @@ package hash
 
 import (
 	"fmt"
-	"github.com/allanpk716/config/lang"
+	"github.com/allanpk716/conf/lang"
 	"sort"
 	"strconv"
 	"sync"

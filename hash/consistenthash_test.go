@@ -2,7 +2,7 @@ package hash
 
 import (
 	"fmt"
-	"github.com/allanpk716/config/mathx"
+	"github.com/allanpk716/conf/mathx"
 	"strconv"
 	"testing"
 
